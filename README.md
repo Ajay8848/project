@@ -13,40 +13,53 @@ You can perform various operations like:
 On employee of the company
 
 <h2>Steps To install this project on eclipse:</h2>
-<li>1 Create Dynamic web Project</li>
-<li>2 copy all jsp,html file and folders from WebContent folder of my project and paste it all in WebContent folder of your project.</li>
-<li>3 Create Packages in src folder like my project structure</li>
-<li>4 Paste all programs into your projects.</li> 
-<li>5 On database you need to create two tables admin and employee</li>
+<li> Create Dynamic web Project</li>
+<li> Right click on your project ->build path ->configure build path ->add external jar ->select servlet-api</li> 
+<li> In WebContent/WebINF/lib folder paste the ojdbc14 jar file</li>
+<li> Copy all jsp,html file and folders from WebContent folder of my project and paste it all in WebContent folder of your project.</li>
+<li> Create Packages in src folder like my project structure</li>
+<li> Paste all programs into your projects.</li> 
+<li> On database you need to create two tables admin and employee</li>
+<li> Admin Table</li> 
+create table admin(
+ad_id number(38) primary key,
+ad_name varchar(255),
+ad_address varchar(255),
+ad_contact number(38),
+ad_salary number(38),
+ad_email varchar(255),
+ad_uname varchar(255),
+ad_password varchar(255))
 <br>
 <br>
 <h2>Screenshot of projects :</h2>
 <h3>Home page</h3>
-![Screenshot (8)](https://user-images.githubusercontent.com/69745859/115959121-20a6a880-a528-11eb-822d-73924838617b.png)
+
+
 
 <br>
 <h3>Admin page</h3>
-![Screenshot (10)](https://user-images.githubusercontent.com/69745859/115959177-96127900-a528-11eb-956a-db64bddefc03.png)
+
 
 <br>
 <h3>Admin Details after login</h3>
-![Screenshot (11)_LI](https://user-images.githubusercontent.com/69745859/115959316-46807d00-a529-11eb-96a0-ef0c6372ec74.jpg)
+
 
 <br>
 <h3>Add employee page</h3>
-![Screenshot (12)](https://user-images.githubusercontent.com/69745859/115959392-af67f500-a529-11eb-8630-92929f873e45.png)
+
 
 <br>
 <h3>Employee login</h3>
-![Screenshot (13)](https://user-images.githubusercontent.com/69745859/115959493-15547c80-a52a-11eb-9e65-a8a17e162cbd.png)
+
 
 <br>
 <h3>Details of Employee</h3>
-![Screenshot (17)](https://user-images.githubusercontent.com/69745859/115959541-55b3fa80-a52a-11eb-9d1e-b1fa0a416d8d.png)
+
 
 <br>
 <h3>Employee List</h3>
-![Screenshot (19)_LI](https://user-images.githubusercontent.com/69745859/115959690-10dc9380-a52b-11eb-939c-aaddeb65a406.jpg)
+
 
 If any query related to this project, you can reach on social Account 
 <a href:"https://www.facebook.com/ajay.ingle.9231">Facebook Account</a>

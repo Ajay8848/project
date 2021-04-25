@@ -83,10 +83,7 @@ Employee List
 <br>
 
 If any query related to this project, you can reach on my social Account 
-<br>
 
 [Facebook](https://www.facebook.com/ajay.ingle.9231)
-
-<br>
 
 [Instagram](https://www.instagram.com/ajay_ingle27)

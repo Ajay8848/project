@@ -45,3 +45,4 @@ emp_password varchar(255))
 <br>
 <h2>Screenshot of projects :</h2>
 <h3>Home page</h3>
+![Screenshot (8)](https://user-images.githubusercontent.com/69745859/115980656-01515f00-a5ac-11eb-9a7f-e181f4a0ed8b.png)

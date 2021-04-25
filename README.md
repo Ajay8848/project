@@ -46,34 +46,5 @@ emp_password varchar(255))
 <br>
 <h2>Screenshot of projects :</h2>
 <h3>Home page</h3>
-![Screenshot (8)](https://user-images.githubusercontent.com/69745859/115980111-c9e0b380-a5a7-11eb-9f22-228f69303cb0.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/69745859/115980378-e7168180-a5a9-11eb-9f30-eab16a6ca834.png)
 
-
-
-<br>
-<h3>Admin page</h3>
-
-
-<br>
-<h3>Admin Details after login</h3>
-
-
-<br>
-<h3>Add employee page</h3>
-
-
-<br>
-<h3>Employee login</h3>
-
-
-<br>
-<h3>Details of Employee</h3>
-
-
-<br>
-<h3>Employee List</h3>
-
-
-If any query related to this project, you can reach on social Account 
-<a href:"https://www.facebook.com/ajay.ingle.9231">Facebook Account</a>
-<a href:"https://www.instagram.com/ajay_ingle27/">Instagram Account</a>

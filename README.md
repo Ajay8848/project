@@ -30,6 +30,17 @@ ad_salary number(38),
 ad_email varchar(255),
 ad_uname varchar(255),
 ad_password varchar(255))
+<li>Employee Table</li>
+create table employee(
+emp_id number(38) primary key,
+emp_name varchar(255),
+emp_address varchar(255),
+emp_contact number(38),
+emp_dept varchar(255),
+emp_salary number(38),
+emp_email varchar(255),
+emp_uname varchar(255),
+emp_password varchar(255))
 <br>
 <br>
 <h2>Screenshot of projects :</h2>
